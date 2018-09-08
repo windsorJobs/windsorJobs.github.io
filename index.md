@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# 欢迎来到 AMIT’Home
 
-You can use the [editor on GitHub](https://github.com/windsorJobs/windsorJobs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+第一次做自己的博客站点
 
-### hello, yjx
+> 想简单的弄个记录自己学习&想法&阅读的记录的站点
+平时都是笔记本或是一些软件上记录,没有给整体记录存放的地方
+有好多平台可以做，也可以自己搭个属于自己的网站
+考虑到不是很方便，租个服务器对学生来说也是一笔不少的资金
+最后选择在这里,以后有时间在弄自己想做的东西
+'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```js
+var log = console.log.bind(log)
+var coder = function(uphold) {
+    log('hello,' word)
+}
+coder(love)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 测试 md 语法
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/windsorJobs/windsorJobs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| 项目       | 价格   |  数量  |
+| --------   | -----: | :----: |
+| 1          | \$1600 |   5    |
+| 2          |   \$12 |   12   |
+| 3          |    \$1 |  234   |
